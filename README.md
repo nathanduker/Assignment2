@@ -7,7 +7,7 @@ A stylish website design made as the base for an NYC touring site.
 <!-- It is good practice to add an about or summary -->
 ## About
 
-This is a site styling project. 
+This is a site styling project. Hosted on Glitch.io here: (https://proximal-plum-pie.glitch.me/)
 
 
 <!-- It is essential to describe how to set up your project -->
